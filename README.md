@@ -2,41 +2,28 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header">
 
 <!--APRESENTAÇÃO-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sansita+Swashed&size=40&duration=4000&pause=500&color=0097F7&center=true&vCenter=true&width=1000&&lines=Hello%2C+My+name+is+Erick+Berdnaski;Studying+Systems+Development;6th+Period;Be+Welcome!" alt="Apresentação"></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Sansita+Swashed&size=40&duration=4000&pause=500&color=0097F7&center=true&vCenter=true&width=1000&&lines=Hello%2C+My+name+is+Erick+Berdnaski;Studying+Full+Stack+Development;6th+Period+of+Information+Systems;Be+Welcome!" alt="Apresentação"></a>
 
 <div align="center">
-    <img src="https://github.com/berdnaski/berdnaski/blob/main/rgb-line.svg">
-    
-    <!--DARK MODE-->
-    <a href="https://github.com/berdnaski#gh-dark-mode-only">
-        <img width="100%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=berdnaski&theme=github-dark&hide_border=true&border_radius=10" alt="">
-        <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=berdnaski&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" alt="Erick Berdnaski github stats">
-        <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berdnaski&theme=vue-dark&layout=compact&hide_border=true&title_color=58A6FF&text_color=C3D1D9&bg_color=0D1117" alt="GitHub Readme Stats">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=berdnaski&theme=react-dark&hide_border=true&days=14" alt="GitHub Readme Stats">
-        <img src="https://github-profile-trophy.vercel.app/?username=berdnaski&theme=algolia&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15">
-    </a>
-    
-    <!--LIGHT MODE-->
-    <a href="https://github.com/berdnaski#gh-light-mode-only">
-        <img width="100%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=berdnaski&theme=github-light&hide_border=true&border_radius=10" alt="">
-        <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=berdnaski&theme=vue&show_icons=true&count_private=true&hide_border=true" alt="Erick Berdnaski github stats">
-        <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berdnaski&theme=vue&layout=compact&hide_border=true" alt="GitHub Readme Stats">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=berdnaski&theme=react-dark&bg_color=ffffff&hide_border=true&days=7&point=00aeff" alt="GitHub Readme Stats">
-        <img src="https://github-profile-trophy.vercel.app/?username=berdnaski&theme=flat&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15">
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=berdnaski&theme=dark" alt="GitHub Streak" /></a>
+    <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berdnaski&theme=vue-dark&layout=compact&hide_border=true&title_color=58A6FF&text_color=C3D1D9&bg_color=0D1117" alt="Linguagens mais usadas">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=berdnaski&theme=react-dark&hide_border=true&days=14" alt="Gráfico de Atividade no GitHub">
+    <img src="https://github-profile-trophy.vercel.app/?username=berdnaski&theme=algolia&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15">
     <br><br>
-    
     <!--SOCIAL ICONS-->
-    <a href="https://instagram.com/berd.erick"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://linkedin.com/in/erick-berdnaski"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    
+    <a href="https://instagram.com/berd.erick">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://linkedin.com/in/erick-berdnaski">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
     <!--SKILLS-->
     <h3>🚀 Tecnologias que eu uso:</h3>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
     <br><br>
-    
     <!--SKILLS TABLES-->
     <table>
         <tr>
@@ -72,31 +59,16 @@
             </td>
         </tr>
     </table>
-</div>
-
-<div align="center">
-    <img src="https://github.com/berdnaski/berdnaski/blob/main/rgb-line.svg">
-    <!--DARK MODE-->
-    <a href="https://github.com/berdnaski#gh-dark-mode-only">
-        <table border="5">
-          <tr>
-            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berdnaski&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links"></td>
-            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berdnaski&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links"></td>
-          </tr>
-        </table>
-    </a>
-    
-    <!--LIGHT MODE-->
-    <a href="https://github.com/berdnaski#gh-light-mode-only">
-        <table border="5">
-          <tr>
+    <br>
+    <!--TROPHIES-->
+    <table border="5">
+        <tr>
             <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berdnaski&theme=default_repocard&hide_border=true&repo=social-links"></td>
             <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berdnaski&theme=default_repocard&hide_border=true&repo=social-links"></td>
-          </tr>
-        </table>
-    </a>
-    
+        </tr>
+    </table>
     <img src="https://github.com/berdnaski/berdnaski/blob/main/rgb-line.svg">
+    <br>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
