@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#a52c2c&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?color=850cad&size=35&center=true&width=1000&lines=HELLO,+MY+NAME+is+Erick+Berdnaski;I'am+20+years+old;I+Graduated+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=850cad&size=35&center=true&width=1000&lines=HELLO,+MY+NAME+is+Erick+Berdnaski;I'am+21+years+old;I+Graduated+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=berdnaski&show_icons=true&count_private=true&hide_border=true&title_color=850cad&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Erick Berdnaski github stats" />
