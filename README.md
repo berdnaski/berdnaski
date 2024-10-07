@@ -63,8 +63,8 @@
     <!--TROPHIES-->
     <table border="5">
         <tr>
-            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berdnaski&theme=default_repocard&hide_border=true&repo=social-links"></td>
-            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berdnaski&theme=default_repocard&hide_border=true&repo=social-links"></td>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berdnaski&theme=default_repocard&hide_border=true&repo=micro-saas-todo-app"></td>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berdnaski&theme=default_repocard&hide_border=true&repo=micro-saas-todo-app"></td>
         </tr>
     </table>
     <img src="https://github.com/berdnaski/berdnaski/blob/main/rgb-line.svg">
