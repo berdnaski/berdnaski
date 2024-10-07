@@ -9,25 +9,19 @@
     
     <!--DARK MODE-->
     <a href="https://github.com/berdnaski#gh-dark-mode-only">
-        <!--STREAK STATS-->
         <img width="100%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=berdnaski&theme=github-dark&hide_border=true&border_radius=10" alt="">
         <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=berdnaski&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" alt="Erick Berdnaski github stats">
         <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berdnaski&theme=vue-dark&layout=compact&hide_border=true&title_color=58A6FF&text_color=C3D1D9&bg_color=0D1117" alt="GitHub Readme Stats">
-        <!--🏆GITHUB GRAPH-->
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=berdnaski&theme=react-dark&hide_border=true&days=14" alt="GitHub Readme Stats">
-        <!--🏆GITHUB TROPHIES-->
         <img src="https://github-profile-trophy.vercel.app/?username=berdnaski&theme=algolia&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15">
     </a>
     
     <!--LIGHT MODE-->
     <a href="https://github.com/berdnaski#gh-light-mode-only">
-        <!--STREAK STATS-->
         <img width="100%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=berdnaski&theme=github-light&hide_border=true&border_radius=10" alt="">
         <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=berdnaski&theme=vue&show_icons=true&count_private=true&hide_border=true" alt="Erick Berdnaski github stats">
         <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berdnaski&theme=vue&layout=compact&hide_border=true" alt="GitHub Readme Stats">
-        <!--🏆GITHUB GRAPH-->
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=berdnaski&theme=react-dark&bg_color=ffffff&hide_border=true&days=7&point=00aeff" alt="GitHub Readme Stats">
-        <!--🏆GITHUB TROPHIES-->
         <img src="https://github-profile-trophy.vercel.app/?username=berdnaski&theme=flat&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15">
     </a>
     <br><br>
@@ -38,10 +32,10 @@
     
     <!--SKILLS-->
     <h3>🚀 Tecnologias que eu uso:</h3>
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-        <br><br>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    <br><br>
     
     <!--SKILLS TABLES-->
     <table>
@@ -84,7 +78,6 @@
     <img src="https://github.com/berdnaski/berdnaski/blob/main/rgb-line.svg">
     <!--DARK MODE-->
     <a href="https://github.com/berdnaski#gh-dark-mode-only">
-        <!--🏆GITHUB REPO CARD-->
         <table border="5">
           <tr>
             <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berdnaski&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links"></td>
@@ -95,7 +88,6 @@
     
     <!--LIGHT MODE-->
     <a href="https://github.com/berdnaski#gh-light-mode-only">
-        <!--🏆GITHUB REPO CARD-->
         <table border="5">
           <tr>
             <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berdnaski&theme=default_repocard&hide_border=true&repo=social-links"></td>
@@ -104,7 +96,7 @@
         </table>
     </a>
     
-<img src="https://github.com/berdnaski/berdnaski/blob/main/rgb-line.svg">
+    <img src="https://github.com/berdnaski/berdnaski/blob/main/rgb-line.svg">
+</div>
 
-<br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
