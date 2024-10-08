@@ -60,19 +60,6 @@
         </tr>
     </table>
     <br>
-    <!--TROPHIES-->
-    <table border="5">
-        <tr>
-            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berdnaski&theme=default_repocard&hide_border=true&repo=micro-saas-todo-app"></td>
-            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berdnaski&theme=default_repocard&hide_border=true&repo=saas-rbac"></td>
-            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berdnaski&theme=default_repocard&hide_border=true&repo=berdnaski-portfolio"></td>
-            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berdnaski&theme=default_repocard&hide_border=true&repo=sankhya-frontend"></td>
-            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berdnaski&theme=default_repocard&hide_border=true&repo=sankhya-api"></td>
-            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berdnaski&theme=default_repocard&hide_border=true&repo=oderms"></td>
-        </tr>
-    </table>
-    <img src="https://github.com/berdnaski/berdnaski/blob/main/rgb-line.svg">
-    <br>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
