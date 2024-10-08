@@ -18,12 +18,6 @@
     <a href="https://linkedin.com/in/erick-berdnaski">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <!--SKILLS-->
-    <h3>🚀 Tecnologias que eu uso:</h3>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-    <br><br>
     <!--SKILLS TABLES-->
     <table>
         <tr>
